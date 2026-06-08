@@ -24,5 +24,5 @@
 - 🚀 מתרגל תכנות תחרותי ומכין את עצמי לראיונות טכניים
 
 ### 🔗 לינקים וליצירת קשר
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- [LinkedIn](https://linkedin.com/in/Ido Nevo‏)
 - 📧 המייל שלי: Inevo419@gmail.com
