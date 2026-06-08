@@ -4,17 +4,17 @@
 ### 📊 GitHub Statistics
 
 <!-- כרטיסיית סטטיסטיקות גיטהאב כלליות (מציגה קומיטים, כוכבים ועוד) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ido_Nevo_Bunker&show_icons=true&theme=radical&include_all_commits=true)
 
 <!-- כרטיסיית השפות הכי בשימוש בריפוזיטוריז שלך -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ido_Nevo_Bunker&layout=compact&theme=radical)
 
 ---
 
 ### 💻 LeetCode Stats
 
 <!-- כרטיסיית ה-LeetCode מהתמונה -->
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=light)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Ido_Nevo_Bunker&theme=light)](https://leetcode.com/Ido_Nevo_Bunker)
 
 ---
 
@@ -25,4 +25,4 @@
 
 ### 🔗 לינקים וליצירת קשר
 - [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 המייל שלי: your.email@example.com
+- 📧 המייל שלי: Inevo419@gmail.com
